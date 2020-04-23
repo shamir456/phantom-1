@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: right
-title: 'Bloc Jams Angular'
-date: 2016-02-20 14:15:00
+title: 'Tabdealit'
+date: 2020-02-20 14:15:00
 categories: development
-tags: JavaScript AngularJS Sass Grunt
+tags: JavaScript Angular UIkit Firebase
 featured_image: '/img/posts/3.png'
-project_link: 'https://github.com/jamigibbs/bloc-jams-angular'
+project_link: 'https://tabdealit.ml'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'A digital music player built using AngularJS'
+lead_text: 'A community building paltform for exchanging items between organizations'
 ---

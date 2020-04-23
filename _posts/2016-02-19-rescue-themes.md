@@ -2,12 +2,12 @@
 layout: inner
 position: left
 title: 'Rescue Themes'
-date: 2016-02-20 15:56:00
+date: 2018-02-20 15:56:00
 categories: development design
-tags: WordPress PHP Sass
+tags: WordPress PHP Elemnentor
 featured_image: '/img/posts/2.png'
-project_link: 'https://rescuethemes.com'
-button_text: 'Visit Rescue Themes'
+project_link: 'https://trean.000webhostapp.com/'
+button_text: 'Visit Trean'
 button_icon: 'wordpress'
-lead_text: 'Designed and developed all WordPress themes'
+lead_text: 'Designed and developed WordPress using elementor'
 ---

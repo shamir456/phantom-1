@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Shameer Ahmad."
 email: 'shamirahmad52@gmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+description: "A full-stack developer with a passion to solve rigorous and challenging problems with a creative and inventive mindset. I am also proficient in Java,Python and MeanStack development, having experience with working and developing applications in various startups."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
@@ -91,7 +91,7 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
+footer_text: '© 2020 Shameer Ahmad'
 admin_name: 'Shameer Ahmad'
 # google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: true

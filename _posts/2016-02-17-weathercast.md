@@ -9,5 +9,7 @@ featured_image: '/img/posts/1.png'
 project_link: 'https://github.com/shamir456/social-media-bmp'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+lead_text: 'The platform allows a brand to analyze their page comments
+sentiments in three languages Roman Urdu,Urdu and English and also
+provide interactive dashboard with visual analysis of posts stats'
 ---
