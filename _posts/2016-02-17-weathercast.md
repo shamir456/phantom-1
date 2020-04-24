@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Social Media Brand Monitoring'
+title: 'SMBM'
 date: 2020-02-20 15:56:00
 categories: development MachineLearing Angular
 tags: Django Angular API ML/DL

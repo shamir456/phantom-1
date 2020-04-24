@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Rescue Themes'
+title: 'Trean Ecommerce'
 date: 2018-02-20 15:56:00
 categories: development design
 tags: WordPress PHP Elemnentor
