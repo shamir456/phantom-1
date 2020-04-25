@@ -4,7 +4,7 @@ position: left
 title: 'SMBM'
 date: 2020-02-20 15:56:00
 categories: development MachineLearing Angular
-tags: Django Angular API ML/DL
+tags: Django Angular API ML/DL MongoDB
 featured_image: '/img/posts/1.png'
 project_link: 'https://github.com/shamir456/social-media-bmp'
 button_icon: 'github'
