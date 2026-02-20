@@ -16,8 +16,8 @@
 title: "Hello. I'm Shameer Ahmad."
 email: 'shamirahmad52@gmail.com'
 description: "A full-stack developer with a passion to solve rigorous and challenging problems with a creative and inventive mindset. I am also proficient in Java,Python and MeanStack development, having experience with working and developing applications in various startups."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/phantom-1" # the subpath of your site, e.g. /blog
+url: "https://shamir456.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
 github_username: 'shamir456'
 medium_username: 'medium.com/@shameerahmed'
